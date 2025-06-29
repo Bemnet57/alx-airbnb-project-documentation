@@ -1,4 +1,6 @@
-1. User Authentication
+## 1. User Authentication
+
+
 Functional Requirements:
 Users can sign up as students or admins.
 
@@ -72,7 +74,7 @@ JWT should expire in 24 hours.
 
 Rate limit login attempts: 5 per minute per IP.
 
-🏢 2. Internship Management
+## 2. Internship Management
 Functional Requirements:
 Admins can create, edit, and delete internship posts.
 
@@ -129,7 +131,7 @@ Must support 100+ internships without noticeable delay (<500ms query).
 
 Full-text search by title and company name should be available.
 
-📄 3. Application Submission and Review System
+## 3. Application Submission and Review System
 Functional Requirements:
 Students submit applications for specific internships.
 
