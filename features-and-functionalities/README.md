@@ -11,27 +11,14 @@ This project will be focused on backend development of the AirBnB clone which is
 - It will enable users to pay using different payment methods
 - It will provide a powerful admin dashboard to make user experience smooth
 
-The system contains a database which provides: 
- List of station with their tariff 
- List of cities in Ethiopia with their tariff from Addis Ababa. 
- List of traffic’s name and ID 
-This data base keep records of names, emails, phone numbers, plates number and number of 
-reports. The system allows users to search name of station and allow authorized person to check 
-number reports by searching plate numbers.  
-The Limitations of the project: 
- It addresses only a part of community capable of using internet and who can afford smartphone. 
- It can’t be accessed offline since it is web application. 
+
 1.3 Overview 
 As previously stated above, the purpose of the documenation is to provide readers with enough information about the project structure, core functional and non-functional requirements supported with different UML diagrams and textual expalnations.
-, the purpose of the document is to provide readers with extensive 
-information about the project structure, and the text is arranged in such a way that readers can 
-quickly move through the sections. The project's general description, which includes product 
-perspective, product functionalities, user characteristics, and general constraints , is covered in 
-the next section of this document. External interface requirements, use cases, non-functional 
-requirements, and other sub-sections are covered in the Specific Requirements section. It also reflects the project's change management process. At the end of the document, the reader will 
-discover References. 
-The table of contents clearly explains the document's structure, allowing users to locate any 
-parts or subsections in the document by page number. 
+This document outlines the functional and technical requirements for the backend system of an Airbnb-style property rental platform. The system is designed to support core features such as user authentication, property listing and management, booking workflows, secure payment handling, messaging between users, and review submissions.
+
+The platform serves three primary user roles: guests, hosts, and administrators, each with specific capabilities and permissions. Guests can browse available properties, make bookings, submit reviews, and communicate with hosts. Hosts can list and manage properties, respond to booking requests, and interact with guests. Administrators oversee the system, manage user access, and handle disputes or platform-level tasks.
+
+This document provides a detailed breakdown of the database schema, key backend processes (including a visual flowchart), API requirements, and business logic constraints. The goal is to ensure a consistent, secure, and scalable backend architecture that supports both current functionality and future enhancements.
 
 ## 2. Functional Requirements
 - Users mangement
