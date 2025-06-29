@@ -55,7 +55,7 @@ parts or subsections in the document by page number.
 
 ## 5. ER Diagram
 <!--*(Insert draw.io ER diagram)*-->
-![ERD](../airbnb_er_diagram.drawio.png)
+![ERD](../airbnb_er_diagrm.drawio.png)
 
 ## 6. System Flow
 <!--*(Insert flowchart)*-->
