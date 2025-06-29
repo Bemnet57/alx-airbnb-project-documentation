@@ -54,10 +54,16 @@ parts or subsections in the document by page number.
 ![Use case diagram](../use-case-diagram/use_case.drawio.png)
 
 ## 5. ER Diagram
-*(Insert draw.io ER diagram)*
+<!--*(Insert draw.io ER diagram)*-->
+![ERD](./airbnb_er_diagram.drawio.png)
 
 ## 6. System Flow
-*(Insert flowchart)*
+<!--*(Insert flowchart)*-->
+![Flow chart](blabla)
+
+## 7. Data Flow Diagram
+
+![data flow](../data-flow-diagram/data_flow_diagram.drawio.png)
 
 
 
