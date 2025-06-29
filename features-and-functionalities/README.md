@@ -46,7 +46,7 @@ This document provides a detailed breakdown of the database schema, key backend 
 
 ## 6. System Flow
 <!--*(Insert flowchart)*-->
-![Flow chart](blabla)
+![Flow chart](../flowcharts/data-flow-diagram.png)
 
 ## 7. Data Flow Diagram
 
