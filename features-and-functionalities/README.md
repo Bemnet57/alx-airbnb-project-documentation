@@ -51,7 +51,7 @@ parts or subsections in the document by page number.
 
 ## 4. Use Case Diagrams
 <!--*(Insert draw.io diagram)*-->
-![Use case diagram](./use-case-diagram/use_case.drawio.png)
+![Use case diagram](../use-case-diagram/use_case.drawio.png)
 
 ## 5. ER Diagram
 *(Insert draw.io ER diagram)*
