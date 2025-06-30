@@ -2,13 +2,10 @@
 
 
 Functional Requirements:
-Users can sign up as students or admins.
-
-Users can log in using email and password.
-
-Role-based access control must restrict endpoints (e.g., only admins can approve applications).
-
-JWT-based session management.
+- Users can sign up as students or admins.
+- Users can log in using email and password.
+- Role-based access control must restrict endpoints (e.g., only admins can approve applications).
+- JWT-based session management.
 
 API Endpoints:
 POST /api/auth/signup
